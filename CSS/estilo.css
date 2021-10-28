@@ -1,24 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap');
+
 body{
     background-color: rgb(148, 0, 211);
     color: rgb(0, 255, 255);
+    font-family: 'Cabin', sans-serif;
 }
 .row{
     margin-bottom: 20px;
     padding: 20px;
     background-color: rgb(0, 0, 0);
     color: rgb(0, 255, 255);
+    font-family: 'Cabin', sans-serif;
 }
 .col{
     background-color: black; 
     color: rgb(0, 255, 255);
+    font-family: 'Cabin', sans-serif;
 }
 .col-4{
     background-color: black; 
     color: rgb(0, 255, 255);
+    font-family: 'Cabin', sans-serif;
 }
 .col-8{
     background-color: black;
-    color: rgb(0, 255, 255); 
+    color: rgb(0, 255, 255);
+    font-family: 'Cabin', sans-serif; 
 }
 .container{
     margin-top:20px;
